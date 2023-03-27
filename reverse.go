@@ -50,3 +50,4 @@ func shiftandreverse(choice string) (result string) {
 	}
 	return
 }
+// comment
